@@ -2,28 +2,41 @@
 layout: cv
 title:  Sergei Shestak's CV
 ---
+
 # Sergei Shestak
-Web Developer, TS/JS Developer 
+
+Web Engineer, TS/JS Developer
 
 <div id="webaddress">
-<a href="sergei.smart@gmail.com">sergei.smart@gmail.com</a>
-| <a href="https://t.me/smartex">Telegram</a>
+<a href="mailto:sergei.smart@gmail.com">sergei.smart@gmail.com</a>
+| <a href="https://t.me/smartex">@smartex Telegram</a>
+| <a href="https://www.linkedin.com/in/sshestak/">LinkedIn page</a>
 </div>
 
+<div id="photo">
+    <img style="width: 100%;height:auto" src="photo.jpg" alt="Sergei Shestak" />
+</div>
 
 ## Currently
 
-Standing on the shoulders of giants
+Lead Software Engineer / CTO
 
-### Specialized in
+Building web applications from scratch, focused on APIs
 
-Build
+Design the application architecture, CI/CD, SRE
 
+## Specialized in
 
-### Interests
+`Proficiency in `
+Node.js, Express.js, Nest.js, Socket.io, TypeORM, PostgreSQL, MongoDB, Redis Git, Gitlab CI, Docker
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Familiar with `
+HTML, CSS, React/Redux, Vue
 
+## Languages
+
+- __Russian__ - native
+- __English__ - B2 Upper immediately
 
 ## Education
 
@@ -39,7 +52,6 @@ __Complete JavaScript Course__  https://loftschool.com/diploma/NX1503631637/en/p
 
 __Far Eastern Federal University__, Computer science
 
-
 ## Occupation
 
 `2019 - now`
@@ -47,19 +59,15 @@ __Far Eastern Federal University__, Computer science
 __ATA LLC__
 
 - CTO
-- Backend Devolper
+- Backend Developer / Full Stack Engineer
 
 `2017 - 2019`
 
 __Vladtime LTD__
 
-- DevOps/SRE 
+- DevOps/SRE
 - Web Developer
 
-
-
-<!-- ### Footer
-
-Last updated: August 2021 -->
+Last updated: August 2021 
 
 
